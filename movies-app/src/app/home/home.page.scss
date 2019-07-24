@@ -1,0 +1,27 @@
+.welcome-card img {
+  max-height: 35vh;
+  overflow: hidden;
+}
+.chip
+{
+	background-color: blue;
+	color: white;
+}
+.botoes
+{
+	display:flex;
+	justify-content: space-around;
+	margin-top: 25px;
+	border-top: 1px solid #c4c4c4;
+}
+.lion-king-card
+{
+	max-height: 50vh;
+	
+}
+.lion-king-card img {
+	max-height: 20vh;
+	padding-left:15vw;
+	padding-right: 15vw;
+	overflow: hidden;
+ }
